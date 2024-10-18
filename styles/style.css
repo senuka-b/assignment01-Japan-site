@@ -3,7 +3,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
 
 .background {
-    background-color: #f4dddd;
+    background-color: #ebe1e1;
+
+    height: 900vh;
 }
 
 .boxed-line {
