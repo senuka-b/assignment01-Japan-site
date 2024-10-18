@@ -13,14 +13,16 @@
 
 .welcome-text {
     font-family: 'PT Serif', serif;
-    font-size:  60px;
+    /* font-size:  60px; */
+    font-size: 6vw;
     font-weight: 500;
     
 }
 
 .art-text {
     font-family: 'Honk';
-    font-size: 100px;
+    /* font-size: 100px; */
+    font-size: 7vw;
     margin-top: 0px;
     line-height: 60px;
 
@@ -30,4 +32,23 @@
     background-color: rgb(234, 59, 129);
     margin-left: 100px;
     font-family: akaya-kanadaka;
+}
+
+main {
+    padding-left: 3rem;
+}
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5vw;
+    font-weight: 350;
+    margin-left: 4px;
+    margin-bottom: 10px;
+
+}
+
+.body-text {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: lighter;
 }
