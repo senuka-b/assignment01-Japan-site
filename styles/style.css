@@ -31,7 +31,7 @@
 #beauty-japan-btn {
     background-color: rgb(234, 59, 129);
     margin-left: 100px;
-    font-family: akaya-kanadaka;
+    font-family: "Akaya Kanadaka", system-ui;
 }
 
 main {
@@ -51,4 +51,24 @@ main {
     font-size: 20px;
     line-height: 30px;
     font-weight: lighter;
+}
+
+.category-image {
+
+    border-radius: 90% / 60%;
+    object-fit: cover;
+
+    height:230px;
+    width:170px;
+
+
+}
+
+.image-caption-text {
+    /* margin-left: 3.6rem; */
+    padding-top: 15px;
+
+    font-family: "Akaya Kanadaka", system-ui;
+    font-size: 20px;
+    font-weight: 200;
 }
