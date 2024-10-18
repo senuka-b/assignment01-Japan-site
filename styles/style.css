@@ -1,3 +1,33 @@
-body {
-    background-color: pink;
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+
+.background {
+    background-color: #f4dddd;
+}
+
+.boxed-line {
+    padding: 3px;
+    background-color: rgb(185, 119, 130);
+}
+
+.welcome-text {
+    font-family: 'PT Serif', serif;
+    font-size:  60px;
+    font-weight: 500;
+    
+}
+
+.art-text {
+    font-family: 'Honk';
+    font-size: 100px;
+    margin-top: 0px;
+    line-height: 60px;
+
+}
+
+#beauty-japan-btn {
+    background-color: rgb(234, 59, 129);
+    margin-left: 100px;
+    font-family: akaya-kanadaka;
 }
