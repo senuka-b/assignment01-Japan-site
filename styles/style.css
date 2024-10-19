@@ -16,7 +16,7 @@
 .short-boxed-line {
     padding: 3px;
     background-color: rgb(230, 153, 38);
-    width: 100px;
+    width: auto;
     border-radius: 15%;
 
 }
@@ -101,5 +101,5 @@ main {
 
 td {
     color: rgb(158, 42, 42) !important;
-; 
+
 }
