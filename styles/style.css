@@ -13,6 +13,14 @@
     background-color: rgb(185, 119, 130);
 }
 
+.short-boxed-line {
+    padding: 3px;
+    background-color: rgb(230, 153, 38);
+    width: 100px;
+    border-radius: 15%;
+
+}
+
 .welcome-text {
     font-family: 'PT Serif', serif;
     font-size:  6vw;
@@ -41,7 +49,7 @@ main {
 
 .title {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 5vw;
+    font-size: 60px;
     font-weight: 350;
     margin-left: 4px;
     margin-bottom: 10px;
@@ -72,4 +80,26 @@ main {
     font-family: "Akaya Kanadaka", system-ui;
     font-size: 20px;
     font-weight: 200;
+}
+
+.sub-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(183, 18, 183);
+    font-weight: 570;
+    margin-left: 4px;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+
+}
+
+.topic {
+    font-size: 50px;
+    font-weight: 600;
+    opacity: 0.75;
+}
+
+td {
+    color: rgb(158, 42, 42) !important;
+; 
 }
